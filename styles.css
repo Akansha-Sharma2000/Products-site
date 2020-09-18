@@ -428,6 +428,16 @@ hr {
   margin-top: 4%;
 }
 
+.heading13 {
+  font-size: 40px;
+  display: inline-block;
+  margin-left: 18%;
+  margin-right: 13%;
+  font-weight: bold;
+  color: green;
+  cursor: pointer;
+}
+
 .div9 {
   background-image: url("images/background2.jpg");
   padding-bottom: 8%;
